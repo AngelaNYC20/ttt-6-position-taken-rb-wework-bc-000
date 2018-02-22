@@ -14,3 +14,8 @@ def position_taken?(board,index)
   end 
 end     
   
+# don't hard code 
+# never " " around true and false 
+# " " around X and O 
+# When returning a value, never do puts 
+# No quotes around nil 
